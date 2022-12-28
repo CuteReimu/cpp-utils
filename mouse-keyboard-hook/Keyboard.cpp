@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Keyboard.h"
 namespace Robot{
 	void Keyboard::PressKey(BYTE bVk)
