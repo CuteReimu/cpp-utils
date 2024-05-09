@@ -1,7 +1,7 @@
 #include<stdlib.h>
 #include<bios.h>
 #include<dos.h>
-#include<graphics.h>
+#include<graphics.h>        /*这是TC的一个头文件*/
 #define MAXX 640            /*游戏最大分辨率*/
 #define MAXY 480
 #define NOR    60            /*表示游戏难度*/
